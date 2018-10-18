@@ -1,9 +1,9 @@
 import Link from 'next/link';
 
 const Home = props => (
-    <div>
- 
-    </div>
+   <div>
+       
+   </div>
 )
 
 export default Home;
