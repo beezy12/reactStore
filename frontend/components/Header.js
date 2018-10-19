@@ -4,6 +4,7 @@ import Nav from './Nav';
 import Router from 'next/router';
 import NProgress from 'nprogress';
 
+// progress bar. css included in Meta
 Router.onRouteChangeStart = () => {
   NProgress.start();
 }
